@@ -1,12 +1,68 @@
-## Links from Slides
+Links from Slides
 
-###Suricata
+Suricata
 
-https://suricata.io/
-https://suricata.readthedocs.io/en/suricata-6.0.5/rules/index.html
+  https://suricata.io/
+  https://suricata.readthedocs.io/en/suricata-6.0.5/rules/index.html
 
-###Yara
+Yara
 
-https://virustotal.github.io/yara/
-https://github.com/InQuest/awesome-yara
-https://yara.readthedocs.io/en/stable/writingrules.html
+  https://virustotal.github.io/yara/
+  https://github.com/InQuest/awesome-yara
+  https://yara.readthedocs.io/en/stable/writingrules.html
+
+ClamAV
+
+  https://www.clamav.net/
+  https://docs.clamav.net/manual/Signatures/LogicalSignatures.html
+  https://docs.clamav.net/manual/Signatures/LogicalSignatures.html#image-fuzzy-hash-subsignatures
+
+Regex
+
+  https://regex101.com
+
+Proofpoint Obfuscation Whitepaper
+
+  https://www.proofpoint.com/sites/default/files/proofpoint-obfuscation-techniques-phishing-attacks-threat-insight-en-v1.pdf
+  
+Javascript Obfuscator
+
+  https://github.com/javascript-obfuscator/javascript-obfuscator
+  https://obfuscator.io/
+  
+Synchrony
+
+  https://github.com/relative/synchrony
+  https://deobfuscate.relative.im/
+
+TwinWave ClamAV Rules
+
+  https://github.com/twinwave-security/twinclams
+  
+Browser in the Browser
+
+  https://mrd0x.com/browser-in-the-browser-phishing-attack/
+
+TwinWave Commonly Abused Web Services (Phishing)
+
+  https://github.com/twinwave-security/blah
+  
+Phishkits
+
+  https://github.com/marcoramilli/PhishingKitTracker
+
+Phish URLs
+
+  https://openphish.com/feed.txt
+
+TwinWave VT Tags - Phish/Brand/Actors
+
+  https://www.virustotal.com/gui/search/%2523twinwave-phish/comments
+  
+Open Source ET Phishing Rules
+
+  https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules
+  
+Open Source ET Clam Rules (Outdated 2018)
+
+  https://github.com/EmergingThreats/phishpunch/blob/master/etphish.ldb
