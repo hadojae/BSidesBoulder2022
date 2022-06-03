@@ -49,7 +49,7 @@ Browser in the Browser
 
 TwinWave Commonly Abused Web Services (Phishing)
 
-  https://github.com/twinwave-security/blah
+  https://gitlab.com/twinwave-public/commonly-abused-web-services/-/blob/main/web-services.txt
   
 Acquire Phish Source
 
