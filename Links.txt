@@ -1,0 +1,12 @@
+## Links from Slides
+
+###Suricata
+
+https://suricata.io/
+https://suricata.readthedocs.io/en/suricata-6.0.5/rules/index.html
+
+###Yara
+
+https://virustotal.github.io/yara/
+https://github.com/InQuest/awesome-yara
+https://yara.readthedocs.io/en/stable/writingrules.html
