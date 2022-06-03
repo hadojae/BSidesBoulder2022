@@ -34,6 +34,9 @@ Synchrony
 
   https://github.com/relative/synchrony
   https://deobfuscate.relative.im/
+  
+Visual Similarity
+  https://github.com/JohannesBuchner/imagehash/
 
 TwinWave ClamAV Rules
 
